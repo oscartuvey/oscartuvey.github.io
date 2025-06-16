@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Oscar Tuvey"
-  avatar : "/assets/images/pp.jpg"
+  avatar : "/assets/images/pp.jpeg"
   bio    : "Undergraduate student in Computer Science at the University of Liverpool."
   links:
     # - label: "Website"
