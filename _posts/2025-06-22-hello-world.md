@@ -27,12 +27,12 @@ https://www.media.mit.edu/publications/your-brain-on-chatgpt/
 
 
 
-### Offsetting Any Accumulated Cognitive Debt
+### Offsetting Accrued Cognitive Debt
 
 Talking points: lack of writing that you're doing nowadays, evidence of cognitive debt attribtued to frequent LLM use,
 
 
-### Lack of Familiarity with Git
+### 
 
 ## What to Expect
 
