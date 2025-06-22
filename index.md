@@ -4,7 +4,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+title: null
 ---
+
+# h1 Heading
 
 ## h2 Heading
 
