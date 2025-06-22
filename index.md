@@ -23,10 +23,3 @@ I’m an aspiring researcher with a particular interest in mechanistic interpret
 
 - [CV (PDF)](/assets/images/CV.pdf)
 - [Blog](/blog/)
-
----
-
-### News
-
-**May 27, 2025** Started my summer internship as an R & D Placement Student at Kwalee.  
-**Apr 26, 2025** Finished my year-long exchange at the University of Toronto.  
