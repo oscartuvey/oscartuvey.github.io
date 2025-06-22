@@ -13,7 +13,7 @@ published: true
 print("Hello, World!")
 ```
 
-Welcome! This is an introductory post which I'll use to explain my motivations for starting my blog, acclimate myself with the functionality that Jekyll's 'Minimal Mistakes' theme provides, and to provide details on what you can expect here within the next few weeks.
+Welcome! This is an introductory post which I'll use to explain my motivations for starting my blog, acclimate myself with the functionality that Jekyll's 'Minimal Mistakes' theme provides, and provide details on what you can expect here within the next few weeks.
 
 ## Motivations
 
@@ -21,5 +21,6 @@ Welcome! This is an introductory post which I'll use to explain my motivations f
 
 ### Offsetting Any Accumulated Cognitive Debt
 
+### Lack of Familiarity with Git
 
 
