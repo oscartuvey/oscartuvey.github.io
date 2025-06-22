@@ -17,6 +17,10 @@ Welcome! This is an introductory post which I'll use to explain my motivations f
 
 ## Motivations
 
+https://www.neelnanda.io/mechanistic-interpretability/getting-started
+https://www.media.mit.edu/publications/your-brain-on-chatgpt/
+- [CV (PDF)](/assets/images/CV.pdf)
+- [Blog](/blog/)
 
 
 ### Current Lack of Online Presence
@@ -29,5 +33,9 @@ Talking points: lack of writing that you're doing nowadays, evidence of cognitiv
 
 
 ### Lack of Familiarity with Git
+
+## What to Expect
+
+### Mechanistic Interpretability
 
 
