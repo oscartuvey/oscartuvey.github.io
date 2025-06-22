@@ -17,9 +17,9 @@ Welcome! This is an introductory post which I'll use to explain my motivations f
 
 ## Motivations
 
-# Current Lack of Online Presence
+### Current Lack of Online Presence
 
-# Offsetting Any Accumulated Cognitive Debt
+### Offsetting Any Accumulated Cognitive Debt
 
 
 
