@@ -14,14 +14,14 @@ I’m an aspiring researcher with a particular interest in mechanistic interpret
 
 ### Research Interests
 
-- NLP
+- Multilingual NLP
 - Transformer interpretability
 
 ---
 
 ### Links
 
-<!-- "- [CV (PDF)](/assets/CV_JaneSmith.pdf)" -->
+- [CV (PDF)](/assets/CV.pdf)"
 - [Blog](/blog/)
 
 ---
