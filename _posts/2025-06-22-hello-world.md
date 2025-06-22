@@ -21,6 +21,6 @@ Welcome! This is an introductory post which I'll use to explain my motivations f
 
 ### Offsetting Any Accumulated Cognitive Debt
 
-### Lack of Familiarity with Git
+### Lack of Familiarity with Git
 
 
