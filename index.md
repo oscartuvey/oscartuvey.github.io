@@ -28,5 +28,10 @@ I’m an aspiring researcher with a particular interest in mechanistic interpret
 
 ### News
 
-- May 2025: Started my summmer internship as a R & D Placement Student at Kwalee!
-- April 2025: Finished my year abroad at the University of Toronto.
+<dl>
+  <dt>May 27, 2025</dt>
+  <dd>Started my summmer internship as an R & D Placement Student at Kwalee!</dd>
+
+  <dt>Apr 26, 2025</dt>
+  <dd>Finished my year-long exchange at the University of Toronto</dd>
+</dl>
