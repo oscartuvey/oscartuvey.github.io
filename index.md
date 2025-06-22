@@ -21,7 +21,7 @@ I’m an aspiring researcher with a particular interest in mechanistic interpret
 
 ### Links
 
-- [CV (PDF)](/assets/CV.pdf)
+- [CV (PDF)](/assets/images/CV.pdf)
 - [Blog](/blog/)
 
 ---
