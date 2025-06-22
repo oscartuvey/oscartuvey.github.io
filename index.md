@@ -28,10 +28,18 @@ I’m an aspiring researcher with a particular interest in mechanistic interpret
 
 ### News
 
-<dl>
-  <dt>May 27, 2025</dt>
-  <dd>Started my summmer internship as an R & D Placement Student at Kwalee!</dd>
+<div style="margin-bottom: 1em;">
+  <strong>May 27, 2025</strong>
+  <div style="margin-left: 4em;">
+    Started my summer internship as an R & D Placement Student at Kwalee.  
+    I'm currently working with the NLP team on dialogue generation tools.
+  </div>
+</div>
 
-  <dt>Apr 26, 2025</dt>
-  <dd>Finished my year-long exchange at the University of Toronto</dd>
-</dl>
+<div style="margin-bottom: 1em;">
+  <strong>Apr 26, 2025</strong>
+  <div style="margin-left: 4em;">
+    Finished my year-long exchange at the University of Toronto.  
+    It was a fantastic experience that broadened my academic and personal horizons.
+  </div>
+</div>
